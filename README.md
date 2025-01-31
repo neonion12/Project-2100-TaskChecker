@@ -1,6 +1,3 @@
-Certainly! Here's a **README.md** file for your **Project-2100-TaskChecker** repository:
-
-```markdown
 # Project-2100-TaskChecker
 
 ## Overview
@@ -51,9 +48,6 @@ Certainly! Here's a **README.md** file for your **Project-2100-TaskChecker** rep
 
 Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
